@@ -15,7 +15,7 @@
   <header>
   </header>
   <div class="starter-template">
-   <h1>Users List</h1>
+   <h1>Patient's List</h1>
    <table
     class="table table-striped table-hover table-condensed table-bordered" , border="1">
     <tr>
